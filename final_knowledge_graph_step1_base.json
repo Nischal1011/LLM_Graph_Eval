@@ -1,0 +1,683 @@
+{
+  "edges": [
+    {
+      "subject": "Subprime mortgage issuance",
+      "subject_label": "Financial activity involving high-risk loans",
+      "relationship": "peaked in 2006",
+      "object": "2006",
+      "object_label": "Year when subprime mortgage issuance peaked"
+    },
+    {
+      "subject": "Adjustable-rate mortgages",
+      "subject_label": "Type of mortgage with variable interest rates",
+      "relationship": "resetting through 2007",
+      "object": "2007",
+      "object_label": "Year when adjustable-rate mortgages were resetting"
+    },
+    {
+      "subject": "Mortgage originators",
+      "subject_label": "Entities that provide mortgage loans",
+      "relationship": "sold loans to banks",
+      "object": "Banks",
+      "object_label": "Financial institutions that received loans from mortgage originators"
+    },
+    {
+      "subject": "Banks",
+      "subject_label": "Financial institutions",
+      "relationship": "pooled loans into mortgage-backed securities and collateralized debt obligations",
+      "object": "Mortgage-backed securities (MBS) and Collateralized debt obligations (CDOs)",
+      "object_label": "Types of financial securities created from pooled loans"
+    },
+    {
+      "subject": "Rating agencies",
+      "subject_label": "Organizations that assess financial risks",
+      "relationship": "assigned top ratings to many tranches",
+      "object": "Many tranches",
+      "object_label": "Portions of financial securities rated by agencies"
+    },
+    {
+      "subject": "Bear Stearns",
+      "subject_label": "Investment bank involved in the 2008 Financial Crisis",
+      "relationship": "hedge fund collapse occurred in June 2007",
+      "object": "June 2007",
+      "object_label": "Month and year of Bear Stearns' hedge fund collapse"
+    },
+    {
+      "subject": "Federal Reserve",
+      "subject_label": "Central banking system of the United States",
+      "relationship": "provided emergency lending to Bear Stearns in March 2008",
+      "object": "March 2008",
+      "object_label": "Month and year when the Federal Reserve provided emergency lending"
+    },
+    {
+      "subject": "Lehman Brothers",
+      "subject_label": "Investment bank that declared bankruptcy",
+      "relationship": "bankruptcy occurred on September 15, 2008",
+      "object": "September 15, 2008",
+      "object_label": "Date of Lehman Brothers' bankruptcy"
+    },
+    {
+      "subject": "Money market funds",
+      "subject_label": "Investment funds that invest in short-term debt securities",
+      "relationship": "faced runs during the crisis",
+      "object": "2008 Financial Crisis",
+      "object_label": "Period of severe financial instability"
+    },
+    {
+      "subject": "Credit default swaps (CDS)",
+      "subject_label": "Financial swap agreements to swap credit risk",
+      "relationship": "linked to mortgage-backed securities magnified exposures",
+      "object": "Banks, insurers like AIG, and counterparties",
+      "object_label": "Entities exposed to increased risk through CDS"
+    },
+    {
+      "subject": "Lehman Brothers",
+      "subject_label": "Financial institution",
+      "relationship": "Lehman Brothers failed",
+      "object": "2008",
+      "object_label": "Year of Lehman Brothers' failure"
+    },
+    {
+      "subject": "AIG",
+      "subject_label": "Insurance company",
+      "relationship": "AIG required a bailout",
+      "object": "$85 billion",
+      "object_label": "Amount of AIG's bailout"
+    },
+    {
+      "subject": "Washington Mutual",
+      "subject_label": "Bank",
+      "relationship": "Washington Mutual collapsed",
+      "object": "2008",
+      "object_label": "Year of Washington Mutual's collapse"
+    },
+    {
+      "subject": "Wachovia",
+      "subject_label": "Bank",
+      "relationship": "Wachovia collapsed",
+      "object": "2008",
+      "object_label": "Year of Wachovia's collapse"
+    },
+    {
+      "subject": "FDIC",
+      "subject_label": "Federal Deposit Insurance Corporation",
+      "relationship": "FDIC was strained",
+      "object": "2008",
+      "object_label": "Year FDIC was strained"
+    },
+    {
+      "subject": "U.S. Treasury",
+      "subject_label": "Government department",
+      "relationship": "Treasury sought systemic intervention",
+      "object": "2008",
+      "object_label": "Year Treasury sought intervention"
+    },
+    {
+      "subject": "TARP",
+      "subject_label": "Troubled Asset Relief Program",
+      "relationship": "TARP authorized capital injections",
+      "object": "$700 billion",
+      "object_label": "Amount authorized by TARP"
+    },
+    {
+      "subject": "Federal Reserve",
+      "subject_label": "Central bank of the United States",
+      "relationship": "Federal Reserve launched QE",
+      "object": "2008",
+      "object_label": "Year Federal Reserve launched QE"
+    },
+    {
+      "subject": "QE1",
+      "subject_label": "First round of Quantitative Easing",
+      "relationship": "QE1 launched",
+      "object": "November 2008",
+      "object_label": "Month and year QE1 was launched"
+    },
+    {
+      "subject": "U.S. government",
+      "subject_label": "Federal government",
+      "relationship": "U.S. government became a shareholder in banks",
+      "object": "2009",
+      "object_label": "Year government became a shareholder"
+    },
+    {
+      "subject": "Central banks",
+      "subject_label": "Banks that manage the currency and monetary policy",
+      "relationship": "Central banks acted as counterparties in liquidity facilities",
+      "object": "2009",
+      "object_label": "Year central banks acted as counterparties"
+    },
+    {
+      "subject": "G20",
+      "subject_label": "International forum for governments and central bank governors",
+      "relationship": "G20 aimed to restore stability",
+      "object": "2009",
+      "object_label": "Year G20 aimed to restore stability"
+    },
+    {
+      "subject": "Paris Peace Conference",
+      "subject_label": "Conference to negotiate post-World War I settlement",
+      "relationship": "Paris Peace Conference occurred from January to June 1919",
+      "object": "January to June 1919",
+      "object_label": "Duration of the Paris Peace Conference"
+    },
+    {
+      "subject": "Paris Peace Conference",
+      "subject_label": "Conference to negotiate post-World War I settlement",
+      "relationship": "Paris Peace Conference included countries such as France, United Kingdom, United States, Italy",
+      "object": "France, United Kingdom, United States, Italy",
+      "object_label": "Countries involved in the Paris Peace Conference"
+    },
+    {
+      "subject": "Germany",
+      "subject_label": "Defeated Central Power in World War I",
+      "relationship": "Germany was excluded from negotiations at the Paris Peace Conference",
+      "object": "Paris Peace Conference",
+      "object_label": "Conference where Germany was excluded from negotiations"
+    },
+    {
+      "subject": "Treaty of Versailles",
+      "subject_label": "Peace treaty that ended World War I",
+      "relationship": "Treaty of Versailles was presented to Germany on May 7, 1919",
+      "object": "May 7, 1919",
+      "object_label": "Date when the Treaty of Versailles was presented to Germany"
+    },
+    {
+      "subject": "Treaty of Versailles",
+      "subject_label": "Peace treaty that ended World War I",
+      "relationship": "Treaty of Versailles was signed on June 28, 1919 at the Palace of Versailles",
+      "object": "June 28, 1919",
+      "object_label": "Date and location when the Treaty of Versailles was signed"
+    },
+    {
+      "subject": "Germany",
+      "subject_label": "Defeated Central Power in World War I",
+      "relationship": "Germany ceded Alsace-Lorraine to France under the Treaty of Versailles",
+      "object": "France",
+      "object_label": "Country to which Alsace-Lorraine was ceded"
+    },
+    {
+      "subject": "Germany",
+      "subject_label": "Defeated Central Power in World War I",
+      "relationship": "Germany ceded Eupen-Malmedy to Belgium under the Treaty of Versailles",
+      "object": "Belgium",
+      "object_label": "Country to which Eupen-Malmedy was ceded"
+    },
+    {
+      "subject": "Germany",
+      "subject_label": "Defeated Central Power in World War I",
+      "relationship": "Germany ceded significant eastern territories to Poland under the Treaty of Versailles",
+      "object": "Poland",
+      "object_label": "Country to which significant eastern territories were ceded"
+    },
+    {
+      "subject": "Saar Basin",
+      "subject_label": "Region affected by the Treaty of Versailles",
+      "relationship": "Saar Basin came under League of Nations administration under the Treaty of Versailles",
+      "object": "League of Nations",
+      "object_label": "Organization that administered the Saar Basin"
+    },
+    {
+      "subject": "Rhineland",
+      "subject_label": "Region in Germany",
+      "relationship": "Rhineland was demilitarized under the Treaty of Versailles",
+      "object": "Treaty of Versailles",
+      "object_label": "Treaty that demilitarized the Rhineland"
+    },
+    {
+      "subject": "German army",
+      "subject_label": "Military force of Germany",
+      "relationship": "German army was capped at 100,000 troops under the Treaty of Versailles",
+      "object": "100,000 troops",
+      "object_label": "Maximum troop limit set for the German army"
+    },
+    {
+      "subject": "Reparations",
+      "subject_label": "Financial penalties imposed on Germany",
+      "relationship": "Reparations were set at",
+      "object": "132 billion gold marks",
+      "object_label": "Amount of reparations set for Germany"
+    },
+    {
+      "subject": "Reparations Commission",
+      "subject_label": "Body overseeing reparations",
+      "relationship": "Reparations Commission oversaw",
+      "object": "Reparations",
+      "object_label": "Financial penalties imposed on Germany"
+    },
+    {
+      "subject": "Reparations payments",
+      "subject_label": "Scheduled financial obligations of Germany",
+      "relationship": "Reparations payments were scheduled in installments",
+      "object": "Installments",
+      "object_label": "Payment method for reparations"
+    },
+    {
+      "subject": "Reparations payments",
+      "subject_label": "Scheduled financial obligations of Germany",
+      "relationship": "Reparations payments were tied to",
+      "object": "Economic performance reviews",
+      "object_label": "Assessments linked to currency stability and export volumes"
+    },
+    {
+      "subject": "1923 Ruhr occupation",
+      "subject_label": "Military action by French and Belgian troops",
+      "relationship": "1923 Ruhr occupation was a response to",
+      "object": "Germany's defaults",
+      "object_label": "Failure to meet reparations payments"
+    },
+    {
+      "subject": "Dawes Plan",
+      "subject_label": "1924 financial plan",
+      "relationship": "Dawes Plan restructured",
+      "object": "Payment schedules",
+      "object_label": "New terms for reparations payments"
+    },
+    {
+      "subject": "Young Plan",
+      "subject_label": "1929 financial plan",
+      "relationship": "Young Plan restructured",
+      "object": "Payment schedules",
+      "object_label": "New terms for reparations payments"
+    },
+    {
+      "subject": "American banks",
+      "subject_label": "Financial institutions from the United States",
+      "relationship": "American banks were drawn into",
+      "object": "European recovery",
+      "object_label": "Economic recovery process in Europe"
+    },
+    {
+      "subject": "Great Depression",
+      "subject_label": "Global economic crisis starting in 1929",
+      "relationship": "Great Depression disrupted",
+      "object": "Repayment flows",
+      "object_label": "Scheduled payments of reparations"
+    },
+    {
+      "subject": "Hoover Moratorium",
+      "subject_label": "1931 suspension of international debt repayments",
+      "relationship": "Hoover Moratorium led to",
+      "object": "Cessation of reparations",
+      "object_label": "End of reparations payments in 1932"
+    },
+    {
+      "subject": "Great Trigonometrical Survey of India 1856",
+      "subject_label": "Survey that established Mount Everest's height",
+      "relationship": "was led by",
+      "object": "Sir George Everest's successors",
+      "object_label": "Leaders of the 1856 survey"
+    },
+    {
+      "subject": "Mount Everest",
+      "subject_label": "Highest mountain in the world",
+      "relationship": "was designated as Peak XV in 1856",
+      "object": "Peak XV",
+      "object_label": "Original name given to Mount Everest in 1856"
+    },
+    {
+      "subject": "Mount Everest",
+      "subject_label": "Highest mountain in the world",
+      "relationship": "was renamed in 1865",
+      "object": "Mount Everest",
+      "object_label": "New name given to Peak XV in 1865"
+    },
+    {
+      "subject": "British reconnaissance missions",
+      "subject_label": "Early 20th century exploratory missions on Mount Everest",
+      "relationship": "involved",
+      "object": "George Mallory and Andrew Irvine",
+      "object_label": "Climbers in the early British reconnaissance missions"
+    },
+    {
+      "subject": "Sherpa guides",
+      "subject_label": "Local guides from Solukhumbu",
+      "relationship": "supported",
+      "object": "British reconnaissance missions",
+      "object_label": "Early 20th century exploratory missions on Mount Everest"
+    },
+    {
+      "subject": "Nepal",
+      "subject_label": "Country in the Himalayas",
+      "relationship": "opened to foreign climbers in 1950",
+      "object": "foreign climbers",
+      "object_label": "Climbers from outside Nepal"
+    },
+    {
+      "subject": "Edmund Hillary and Tenzing Norgay",
+      "subject_label": "Climbers who first successfully ascended Mount Everest",
+      "relationship": "reached the summit of Mount Everest on",
+      "object": "May 29, 1953",
+      "object_label": "Date of the first successful ascent of Mount Everest"
+    },
+    {
+      "subject": "1963 American ascent",
+      "subject_label": "American expedition to Mount Everest",
+      "relationship": "was via",
+      "object": "the West Ridge",
+      "object_label": "Route used by the 1963 American expedition on Mount Everest"
+    },
+    {
+      "subject": "1975 Chinese and Japanese expeditions",
+      "subject_label": "Expeditions to Mount Everest",
+      "relationship": "targeted",
+      "object": "the north and southwest faces",
+      "object_label": "Climbing routes on Mount Everest"
+    },
+    {
+      "subject": "national alpine clubs",
+      "subject_label": "Organizations involved in alpine activities",
+      "relationship": "coordinated with",
+      "object": "Nepal’s Ministry of Tourism",
+      "object_label": "Governmental body overseeing tourism in Nepal"
+    },
+    {
+      "subject": "equipment manufacturers",
+      "subject_label": "Companies producing climbing gear",
+      "relationship": "formed sponsorship links with",
+      "object": "Sherpa families",
+      "object_label": "Families providing multi-generational climbing support"
+    },
+    {
+      "subject": "Sherpa families",
+      "subject_label": "Families providing multi-generational climbing support",
+      "relationship": "engaged in multi-generational climbing support",
+      "object": "climbing industry",
+      "object_label": "Industry involving climbing activities"
+    },
+    {
+      "subject": "commercial climbing operations",
+      "subject_label": "Business ventures in mountain climbing",
+      "relationship": "introduced new entities and dependencies from 1990s to present",
+      "object": "climbing industry",
+      "object_label": "Industry involving climbing activities"
+    },
+    {
+      "subject": "Adventure Consultants",
+      "subject_label": "Guide company in climbing industry",
+      "relationship": "coordinate logistics with",
+      "object": "permit brokers, weather forecasting services, helicopter operators, high-altitude workers",
+      "object_label": "Various service providers in climbing operations"
+    },
+    {
+      "subject": "1996 disaster",
+      "subject_label": "Climbing disaster chronicled in Into Thin Air",
+      "relationship": "is a notable event in",
+      "object": "climbing history",
+      "object_label": "Historical events in climbing"
+    },
+    {
+      "subject": "2014 ice serac collapse",
+      "subject_label": "Disaster that killed 16 Sherpas",
+      "relationship": "is a notable event in",
+      "object": "climbing history",
+      "object_label": "Historical events in climbing"
+    },
+    {
+      "subject": "2015 earthquake-triggered avalanche",
+      "subject_label": "Avalanche at Base Camp triggered by an earthquake",
+      "relationship": "is a notable event in",
+      "object": "climbing history",
+      "object_label": "Historical events in climbing"
+    },
+    {
+      "subject": "climbers’ safety",
+      "subject_label": "Safety of individuals participating in climbing",
+      "relationship": "depends on cooperation among",
+      "object": "rival guiding companies",
+      "object_label": "Competing companies in climbing industry"
+    },
+    {
+      "subject": "Nepalese and Chinese authorities",
+      "subject_label": "Government bodies regulating mountain access",
+      "relationship": "regulate access from both sides",
+      "object": "mountain areas",
+      "object_label": "Areas under regulation for climbing"
+    },
+    {
+      "subject": "global media coverage",
+      "subject_label": "Worldwide media reporting on climbing",
+      "relationship": "shapes demand, funding, and safety policies",
+      "object": "climbing industry",
+      "object_label": "Industry involving climbing activities"
+    },
+    {
+      "subject": "Bernhard Riemann",
+      "subject_label": "Mathematician who proposed the Riemann Hypothesis",
+      "relationship": "Bernhard Riemann published seminal paper in 1859",
+      "object": "1859",
+      "object_label": "Year when Bernhard Riemann published his seminal paper"
+    },
+    {
+      "subject": "Riemann Hypothesis",
+      "subject_label": "Hypothesis in mathematics linking number theory and complex analysis",
+      "relationship": "Riemann Hypothesis proposed by Bernhard Riemann",
+      "object": "Bernhard Riemann",
+      "object_label": "Mathematician who proposed the Riemann Hypothesis"
+    },
+    {
+      "subject": "zeta function",
+      "subject_label": "Mathematical function introduced by Bernhard Riemann",
+      "relationship": "zeta function introduced by Bernhard Riemann",
+      "object": "Bernhard Riemann",
+      "object_label": "Mathematician who introduced the zeta function"
+    },
+    {
+      "subject": "nontrivial zeros of zeta function",
+      "subject_label": "Zeros of the zeta function critical to the Riemann Hypothesis",
+      "relationship": "nontrivial zeros proposed to lie on critical line with real part 1/2",
+      "object": "critical line with real part 1/2",
+      "object_label": "Proposed location of nontrivial zeros of zeta function"
+    },
+    {
+      "subject": "prime number theorem",
+      "subject_label": "Theorem in number theory about distribution of prime numbers",
+      "relationship": "prime number theorem proof completed in 1896",
+      "object": "1896",
+      "object_label": "Year when the prime number theorem was proved"
+    },
+    {
+      "subject": "G. H. Hardy",
+      "subject_label": "Mathematician who proved infinite zeros lie on the critical line",
+      "relationship": "G. H. Hardy proved infinitely many zeros lie on the critical line in 1914",
+      "object": "1914",
+      "object_label": "Year when G. H. Hardy proved infinitely many zeros lie on the critical line"
+    },
+    {
+      "subject": "Alan Turing",
+      "subject_label": "Mathematician and computer scientist",
+      "relationship": "Alan Turing performed computational verifications of Riemann Hypothesis in 1953",
+      "object": "1953",
+      "object_label": "Year when Alan Turing verified aspects of the Riemann Hypothesis computationally"
+    },
+    {
+      "subject": "Generalized Riemann Hypothesis",
+      "subject_label": "Mathematical conjecture formulated in 1932",
+      "relationship": "Generalized Riemann Hypothesis was formulated in",
+      "object": "1932",
+      "object_label": "Year of formulation of Generalized Riemann Hypothesis"
+    },
+    {
+      "subject": "Electronic computers",
+      "subject_label": "Tools introduced in the 1950s for zero testing",
+      "relationship": "Electronic computers were introduced for zero testing in",
+      "object": "1950s",
+      "object_label": "Decade when electronic computers were introduced for zero testing"
+    },
+    {
+      "subject": "Montgomery–Odlyzko pair correlation conjecture",
+      "subject_label": "Conjecture from 1974 linking zero distributions to random matrix theory",
+      "relationship": "Montgomery–Odlyzko pair correlation conjecture was proposed in",
+      "object": "1974",
+      "object_label": "Year when the Montgomery–Odlyzko pair correlation conjecture was proposed"
+    },
+    {
+      "subject": "Odlyzko",
+      "subject_label": "Mathematician",
+      "relationship": "Odlyzko verified billions of zeros on the critical line during",
+      "object": "1980s–2000s",
+      "object_label": "Time period of Odlyzko's verification work"
+    },
+    {
+      "subject": "Clay Mathematics Institute",
+      "subject_label": "Institute that designated the Riemann Hypothesis as a Millennium Prize Problem",
+      "relationship": "Clay Mathematics Institute designated the Riemann Hypothesis as a Millennium Prize Problem in",
+      "object": "2000",
+      "object_label": "Year when the Riemann Hypothesis was designated as a Millennium Prize Problem"
+    },
+    {
+      "subject": "Millennium Prize Problems",
+      "subject_label": "Set of seven unsolved problems in mathematics",
+      "relationship": "Millennium Prize Problems include a reward of",
+      "object": "$1 million",
+      "object_label": "Monetary reward for solving any of the Millennium Prize Problems"
+    },
+    {
+      "subject": "Computational verification",
+      "subject_label": "Process in mathematics and computer science",
+      "relationship": "Computational verification depends on",
+      "object": "high-performance computing clusters",
+      "object_label": "Computational resources required for computational verification"
+    },
+    {
+      "subject": "Cryptographic security",
+      "subject_label": "Field concerned with data encryption and security",
+      "relationship": "Cryptographic security is linked to the difficulty of",
+      "object": "factoring",
+      "object_label": "Mathematical process indirectly tied to prime distribution"
+    },
+    {
+      "subject": "Physics–mathematics bridges",
+      "subject_label": "Conjectural links between physical and mathematical theories",
+      "relationship": "Physics–mathematics bridges connect the zeta function to",
+      "object": "quantum systems",
+      "object_label": "Physical systems linked to the zeta function through conjectural bridges"
+    },
+    {
+      "subject": "COVID-19 Pandemic",
+      "subject_label": "Global health crisis caused by the novel coronavirus",
+      "relationship": "COVID-19 Pandemic started from",
+      "object": "late 2019",
+      "object_label": "Initial period of the COVID-19 outbreak"
+    },
+    {
+      "subject": "COVID-19 Pandemic",
+      "subject_label": "Global health crisis caused by the novel coronavirus",
+      "relationship": "COVID-19 Pandemic first known cluster of cases appeared in",
+      "object": "Wuhan, China",
+      "object_label": "Initial location of COVID-19 outbreak"
+    },
+    {
+      "subject": "SARS-CoV-2",
+      "subject_label": "Virus causing COVID-19",
+      "relationship": "SARS-CoV-2 was identified in",
+      "object": "January 2020",
+      "object_label": "Date when SARS-CoV-2 was identified"
+    },
+    {
+      "subject": "WHO",
+      "subject_label": "World Health Organization",
+      "relationship": "WHO declared a Public Health Emergency of International Concern on",
+      "object": "January 30, 2020",
+      "object_label": "Date of WHO's emergency declaration for COVID-19"
+    },
+    {
+      "subject": "WHO",
+      "subject_label": "World Health Organization",
+      "relationship": "WHO declared COVID-19 a pandemic on",
+      "object": "March 11, 2020",
+      "object_label": "Date when COVID-19 was declared a pandemic"
+    },
+    {
+      "subject": "Operation Warp Speed",
+      "subject_label": "U.S. government initiative for COVID-19 vaccine development",
+      "relationship": "Operation Warp Speed was launched in",
+      "object": "April 2020",
+      "object_label": "Date when Operation Warp Speed was initiated"
+    },
+    {
+      "subject": "Mass vaccinations",
+      "subject_label": "Large-scale COVID-19 vaccination efforts",
+      "relationship": "Mass vaccinations started in",
+      "object": "December 2020",
+      "object_label": "Date when mass vaccinations for COVID-19 began"
+    },
+    {
+      "subject": "COVID-19 variants Alpha and Delta",
+      "subject_label": "Variants of the SARS-CoV-2 virus",
+      "relationship": "COVID-19 variants Alpha and Delta emerged in",
+      "object": "late 2020 and mid-2021",
+      "object_label": "Time periods when COVID-19 variants Alpha and Delta emerged"
+    },
+    {
+      "subject": "Supply chains",
+      "subject_label": "Networks for distribution of syringes, cold storage, and raw materials",
+      "relationship": "Supply chains connected multiple industries",
+      "object": "multiple industries",
+      "object_label": "Industries involved in vaccine production and distribution"
+    },
+    {
+      "subject": "Wealthy nations",
+      "subject_label": "Countries with significant financial resources",
+      "relationship": "Wealthy nations pre-purchased large vaccine stocks",
+      "object": "large vaccine stocks",
+      "object_label": "Significant quantities of vaccines secured in advance"
+    },
+    {
+      "subject": "Manufacturing capacity",
+      "subject_label": "Capability to produce vaccines",
+      "relationship": "Manufacturing capacity was concentrated in certain countries",
+      "object": "certain countries",
+      "object_label": "Countries with major vaccine production facilities"
+    },
+    {
+      "subject": "Distribution",
+      "subject_label": "Process of delivering vaccines globally",
+      "relationship": "Distribution depended on infrastructure, diplomacy, and intellectual property debates under WTO’s TRIPS framework",
+      "object": "infrastructure, diplomacy, and intellectual property debates",
+      "object_label": "Key factors influencing global vaccine distribution"
+    },
+    {
+      "subject": "Omicron",
+      "subject_label": "COVID-19 variant",
+      "relationship": "Omicron was first identified in November 2021",
+      "object": "November 2021",
+      "object_label": "Date when Omicron variant was first identified"
+    },
+    {
+      "subject": "Omicron",
+      "subject_label": "COVID-19 variant",
+      "relationship": "Omicron spread rapidly",
+      "object": "rapid spread",
+      "object_label": "Quick increase in Omicron cases globally"
+    },
+    {
+      "subject": "Governments",
+      "subject_label": "National authorities",
+      "relationship": "Governments balanced reopening strategies with booster campaigns and antiviral deployment",
+      "object": "reopening strategies, booster campaigns, and antiviral deployment",
+      "object_label": "Approaches to manage the pandemic while reopening economies"
+    },
+    {
+      "subject": "Healthcare systems",
+      "subject_label": "Organizations providing health services",
+      "relationship": "Healthcare systems coordinated with technology firms for digital health passes",
+      "object": "technology firms",
+      "object_label": "Companies providing technological solutions for health management"
+    },
+    {
+      "subject": "Global economic policy",
+      "subject_label": "Economic strategies at a global level",
+      "relationship": "Global economic policy tied recovery spending to inflation and debt management",
+      "object": "inflation and debt management",
+      "object_label": "Economic factors considered in pandemic recovery spending"
+    },
+    {
+      "subject": "WHO",
+      "subject_label": "World Health Organization",
+      "relationship": "WHO-led coordination continued alongside bilateral aid",
+      "object": "bilateral aid",
+      "object_label": "Assistance provided from one country to another"
+    }
+  ]
+}

@@ -1,0 +1,424 @@
+{
+  "edges": [
+    {
+      "subject": "U.S. housing market",
+      "subject_label": "Housing market in the United States",
+      "relationship": "linked entities in a network from 2006 to mid-2007",
+      "object": "Mortgage originators, Investment banks, Credit rating agencies, Structured product investors",
+      "object_label": "Entities including Countrywide, New Century, Lehman Brothers, Bear Stearns, Goldman Sachs, Moody’s, S&P, Fitch, hedge funds, pension funds, sovereign wealth funds"
+    },
+    {
+      "subject": "Defaults",
+      "subject_label": "Defaults in mortgage payments",
+      "relationship": "propagated across securities",
+      "object": "Multiple securities",
+      "object_label": "Securities held by different investor classes"
+    },
+    {
+      "subject": "Liquidity shocks and counterparty risk",
+      "subject_label": "Financial market conditions",
+      "relationship": "escalated from late 2007 through September 2008",
+      "object": "2008 Financial Crisis",
+      "object_label": "Period of financial instability"
+    },
+    {
+      "subject": "Interbank lending",
+      "subject_label": "Lending between banks",
+      "relationship": "froze during the crisis",
+      "object": "2008 Financial Crisis",
+      "object_label": "Period of financial instability"
+    },
+    {
+      "subject": "TARP",
+      "subject_label": "Troubled Asset Relief Program",
+      "relationship": "was passed on",
+      "object": "October 3, 2008",
+      "object_label": "specific date of TARP passage"
+    },
+    {
+      "subject": "Federal Reserve",
+      "subject_label": "U.S. central banking system",
+      "relationship": "purchased MBS and Treasuries starting",
+      "object": "late 2008",
+      "object_label": "time period when QE began"
+    },
+    {
+      "subject": "U.S. government",
+      "subject_label": "Government of the United States",
+      "relationship": "conducted bank stress tests in",
+      "object": "early 2009",
+      "object_label": "period of financial assessments"
+    },
+    {
+      "subject": "Federal Reserve",
+      "subject_label": "U.S. central banking system",
+      "relationship": "had collateral arrangements with",
+      "object": "the Fed",
+      "object_label": "Federal Reserve System"
+    },
+    {
+      "subject": "U.S. Treasury",
+      "subject_label": "United States Department of the Treasury",
+      "relationship": "had repayment schedules with",
+      "object": "the Treasury",
+      "object_label": "United States Department of the Treasury"
+    },
+    {
+      "subject": "Financial institutions",
+      "subject_label": "Banks and financial entities",
+      "relationship": "had ongoing exposure to",
+      "object": "legacy MBS portfolios",
+      "object_label": "Mortgage-Backed Securities from before the crisis"
+    },
+    {
+      "subject": "Paris Peace Conference",
+      "subject_label": "Conference to negotiate post-World War I settlement",
+      "relationship": "opened on",
+      "object": "January 18, 1919",
+      "object_label": "Date of opening of the Paris Peace Conference"
+    },
+    {
+      "subject": "Woodrow Wilson",
+      "subject_label": "President of the United States during the Paris Peace Conference",
+      "relationship": "delivered",
+      "object": "Fourteen Points speech",
+      "object_label": "Speech outlining framework for peace, delivered in January 1918"
+    },
+    {
+      "subject": "Treaty of Versailles",
+      "subject_label": "Treaty that ended World War I",
+      "relationship": "imposed military restrictions including",
+      "object": "ban on tanks and aircraft",
+      "object_label": "Prohibition for Germany to have tanks and aircraft under the Treaty of Versailles"
+    },
+    {
+      "subject": "Treaty of Versailles",
+      "subject_label": "Treaty that ended World War I",
+      "relationship": "prohibited",
+      "object": "submarine construction",
+      "object_label": "Prohibition for Germany to construct submarines under the Treaty of Versailles"
+    },
+    {
+      "subject": "League of Nations Commission",
+      "subject_label": "Commission established during the Paris Peace Conference",
+      "relationship": "participated in",
+      "object": "Paris Peace Conference",
+      "object_label": "Conference to negotiate post-World War I settlement"
+    },
+    {
+      "subject": "Reparations Commission",
+      "subject_label": "Commission established to determine reparations from Germany",
+      "relationship": "participated in",
+      "object": "Paris Peace Conference",
+      "object_label": "Conference to negotiate post-World War I settlement"
+    },
+    {
+      "subject": "France",
+      "subject_label": "Victorious Allied power in World War I",
+      "relationship": "focused on",
+      "object": "security and reparations",
+      "object_label": "National priorities pursued by France during the Paris Peace Conference"
+    },
+    {
+      "subject": "United Kingdom",
+      "subject_label": "Victorious Allied power in World War I",
+      "relationship": "focused on",
+      "object": "maritime supremacy",
+      "object_label": "National priorities pursued by the United Kingdom during the Paris Peace Conference"
+    },
+    {
+      "subject": "United States",
+      "subject_label": "Victorious Allied power in World War I",
+      "relationship": "focused on",
+      "object": "international cooperation",
+      "object_label": "National priorities pursued by the United States during the Paris Peace Conference"
+    },
+    {
+      "subject": "Reparations payments",
+      "subject_label": "Scheduled payments as part of the reparations",
+      "relationship": "were tied to",
+      "object": "currency stability",
+      "object_label": "Stability of the currency"
+    },
+    {
+      "subject": "Reparations payments",
+      "subject_label": "Scheduled payments as part of the reparations",
+      "relationship": "were tied to",
+      "object": "export volumes",
+      "object_label": "Volumes of exports"
+    },
+    {
+      "subject": "Germany",
+      "subject_label": "Country required to pay reparations",
+      "relationship": "was embedded into",
+      "object": "externally monitored framework",
+      "object_label": "Complex, externally monitored economic framework"
+    },
+    {
+      "subject": "1923 Ruhr occupation",
+      "subject_label": "Military occupation by French and Belgian troops",
+      "relationship": "linked",
+      "object": "military enforcement",
+      "object_label": "Use of military force for enforcement"
+    },
+    {
+      "subject": "1923 Ruhr occupation",
+      "subject_label": "Military occupation by French and Belgian troops",
+      "relationship": "linked",
+      "object": "economic leverage",
+      "object_label": "Use of economic influence or control"
+    },
+    {
+      "subject": "International bondholders",
+      "subject_label": "New financial actors involved due to restructuring plans",
+      "relationship": "were drawn into",
+      "object": "European recovery",
+      "object_label": "Recovery of European economies"
+    },
+    {
+      "subject": "Global financial markets",
+      "subject_label": "Worldwide financial markets",
+      "relationship": "became stakeholders in",
+      "object": "maintaining treaty's viability",
+      "object_label": "Ensuring the effectiveness and continuation of the treaty"
+    },
+    {
+      "subject": "Treaty enforcement",
+      "subject_label": "Implementation and adherence to the treaty terms",
+      "relationship": "depended on",
+      "object": "political will among Allies",
+      "object_label": "Willingness and decision-making of Allied states"
+    },
+    {
+      "subject": "Economic compliance",
+      "subject_label": "Adherence to economic terms of the treaty by Germany",
+      "relationship": "hinged on",
+      "object": "Germany's internal stability",
+      "object_label": "Internal political and economic stability of Germany"
+    },
+    {
+      "subject": "British reconnaissance missions",
+      "subject_label": "Early 20th century British exploratory efforts on Mount Everest",
+      "relationship": "occurred in",
+      "object": "1921",
+      "object_label": "Year of a British reconnaissance mission"
+    },
+    {
+      "subject": "British reconnaissance missions",
+      "subject_label": "Early 20th century British exploratory efforts on Mount Everest",
+      "relationship": "occurred in",
+      "object": "1922",
+      "object_label": "Year of a British reconnaissance mission"
+    },
+    {
+      "subject": "British reconnaissance missions",
+      "subject_label": "Early 20th century British exploratory efforts on Mount Everest",
+      "relationship": "occurred in",
+      "object": "1924",
+      "object_label": "Year of a British reconnaissance mission"
+    },
+    {
+      "subject": "Sherpa guides",
+      "subject_label": "Local Nepalese guides assisting climbers",
+      "relationship": "are from",
+      "object": "Solukhumbu",
+      "object_label": "Region in Nepal known for its Sherpa community"
+    },
+    {
+      "subject": "British expedition under John Hunt",
+      "subject_label": "1953 British expedition that successfully ascended Mount Everest",
+      "relationship": "included",
+      "object": "Edmund Hillary and Tenzing Norgay",
+      "object_label": "Climbers who reached the summit of Mount Everest on May 29, 1953"
+    },
+    {
+      "subject": "Mount Everest",
+      "subject_label": "Highest mountain in the world",
+      "relationship": "involved in geopolitical prestige",
+      "object": "1950-1980",
+      "object_label": "Era of first ascents and national expeditions"
+    },
+    {
+      "subject": "fixed rope systems",
+      "subject_label": "Climbing equipment used to aid ascent",
+      "relationship": "were developed",
+      "object": "Mount Everest",
+      "object_label": "Site of climbing innovation"
+    },
+    {
+      "subject": "oxygen apparatus",
+      "subject_label": "Equipment used by climbers for breathing at high altitudes",
+      "relationship": "innovations occurred",
+      "object": "Mount Everest",
+      "object_label": "Site of climbing equipment innovation"
+    },
+    {
+      "subject": "Guide companies",
+      "subject_label": "Companies like Adventure Consultants and Seven Summit Treks",
+      "relationship": "coordinate logistics with",
+      "object": "Guide companies",
+      "object_label": "Entities like Adventure Consultants and Seven Summit Treks"
+    },
+    {
+      "subject": "climbing operations",
+      "subject_label": "Commercial climbing operations from the 1990s to present",
+      "relationship": "introduced",
+      "object": "seasonal windows",
+      "object_label": "Seasonal climbing windows (pre-monsoon April–May, post-monsoon September–October)"
+    },
+    {
+      "subject": "climbing operations",
+      "subject_label": "Commercial climbing operations from the 1990s to present",
+      "relationship": "introduced",
+      "object": "fixed infrastructure deployments",
+      "object_label": "Permanent installations and facilities for climbing support"
+    },
+    {
+      "subject": "climbing operations",
+      "subject_label": "Commercial climbing operations from the 1990s to present",
+      "relationship": "introduced",
+      "object": "coordinated rescue protocols",
+      "object_label": "Standardized procedures for emergency response"
+    },
+    {
+      "subject": "global media coverage",
+      "subject_label": "Worldwide media attention on climbing activities",
+      "relationship": "shapes",
+      "object": "real-time",
+      "object_label": "Immediate influence on policies and perceptions"
+    },
+    {
+      "subject": "Hadamard and de la Vallée Poussin",
+      "subject_label": "Mathematicians who proved the prime number theorem",
+      "relationship": "completed proof of prime number theorem assuming zero-free regions",
+      "object": "1896",
+      "object_label": "Year of completion of the prime number theorem proof"
+    },
+    {
+      "subject": "critical strip",
+      "subject_label": "Concept in complex analysis related to the zeta function",
+      "relationship": "formalized concept of",
+      "object": "1901",
+      "object_label": "Year when the concept of the critical strip was formalized"
+    },
+    {
+      "subject": "Lehmer",
+      "subject_label": "Mathematician involved in computational verifications",
+      "relationship": "developed large-scale zero searches",
+      "object": "post-1953",
+      "object_label": "Period after Turing's computational verifications"
+    },
+    {
+      "subject": "Riemann Hypothesis",
+      "subject_label": "A conjecture in number theory proposed by Bernhard Riemann",
+      "relationship": "exists at the intersection of",
+      "object": "mathematics, computation, theoretical physics",
+      "object_label": "Interdisciplinary fields involving the Riemann Hypothesis from the 1980s to the present"
+    },
+    {
+      "subject": "Number theory",
+      "subject_label": "A branch of mathematics concerned primarily with the integers",
+      "relationship": "intersected with",
+      "object": "quantum chaos",
+      "object_label": "A field of study in physics dealing with systems that exhibit a chaotic behavior that follows quantum laws"
+    },
+    {
+      "subject": "Computational mathematics",
+      "subject_label": "A field of mathematics that uses algorithms to solve mathematical problems",
+      "relationship": "relied on",
+      "object": "algorithmic number theory",
+      "object_label": "A branch of number theory that uses algorithms to solve problems"
+    },
+    {
+      "subject": "Statistical physics",
+      "subject_label": "A branch of physics that uses statistical methods to explain physical phenomena",
+      "relationship": "informed",
+      "object": "probabilistic models for zero spacing",
+      "object_label": "Models that use probability to study the spacing of zeros in functions like the Riemann zeta function"
+    },
+    {
+      "subject": "Ongoing research",
+      "subject_label": "Continuous scientific investigation",
+      "relationship": "focuses on",
+      "object": "L-functions, random matrices, zeta analogues over finite fields",
+      "object_label": "Areas of study related to the Riemann Hypothesis"
+    },
+    {
+      "subject": "Wuhan",
+      "subject_label": "City in China where COVID-19 first known cluster of cases appeared",
+      "relationship": "was locked down on",
+      "object": "January 23, 2020",
+      "object_label": "Date of Wuhan lockdown"
+    },
+    {
+      "subject": "Sequencing data",
+      "subject_label": "Genetic information of SARS-CoV-2 from Chinese labs",
+      "relationship": "fed into",
+      "object": "global vaccine design",
+      "object_label": "Process of creating vaccines globally"
+    },
+    {
+      "subject": "International travel restrictions",
+      "subject_label": "Limitations on global travel to control virus spread",
+      "relationship": "required coordination between",
+      "object": "governments and airlines",
+      "object_label": "Entities involved in implementing travel restrictions"
+    },
+    {
+      "subject": "Disease reporting protocols",
+      "subject_label": "Guidelines for reporting COVID-19 cases and statistics",
+      "relationship": "intersected with",
+      "object": "political and economic considerations",
+      "object_label": "Factors influencing the management of pandemic information"
+    },
+    {
+      "subject": "Pfizer–BioNTech, Moderna, AstraZeneca, Sinovac",
+      "subject_label": "Pharmaceutical companies involved in COVID-19 vaccine development",
+      "relationship": "partnered with",
+      "object": "governments, NGOs, and COVAX",
+      "object_label": "Entities collaborating on vaccine distribution"
+    },
+    {
+      "subject": "Gavi, CEPI",
+      "subject_label": "NGOs involved in global health and vaccine distribution",
+      "relationship": "participated in",
+      "object": "COVAX initiative",
+      "object_label": "Global initiative aimed at equitable vaccine distribution"
+    },
+    {
+      "subject": "Pandemic",
+      "subject_label": "From late 2021 onward, the pandemic entered a phase of variant adaptation, public policy shifts, and economic recovery efforts.",
+      "relationship": "entered a phase of",
+      "object": "variant adaptation, public policy shifts, and economic recovery efforts",
+      "object_label": "Phase of the pandemic involving adaptation to variants, shifts in public policy, and efforts towards economic recovery"
+    },
+    {
+      "subject": "Omicron",
+      "subject_label": "Omicron, first identified in November 2021, spread rapidly, prompting updated vaccine boosters and altered public health guidance.",
+      "relationship": "prompted",
+      "object": "updated vaccine boosters and altered public health guidance",
+      "object_label": "Introduction of updated vaccine boosters and changes in public health guidance due to the rapid spread of Omicron"
+    },
+    {
+      "subject": "Governments",
+      "subject_label": "Governments balanced reopening strategies with booster campaigns and antiviral deployment (Paxlovid, Molnupiravir).",
+      "relationship": "deployed antivirals",
+      "object": "Paxlovid, Molnupiravir",
+      "object_label": "Specific antiviral medications deployed by governments in response to the pandemic"
+    },
+    {
+      "subject": "Healthcare systems",
+      "subject_label": "Relationships became even more complex: healthcare systems coordinated with technology firms for digital health passes.",
+      "relationship": "coordinated for",
+      "object": "digital health passes",
+      "object_label": "Digital health passes developed through coordination between healthcare systems and technology firms"
+    },
+    {
+      "subject": "Pandemic",
+      "subject_label": "The pandemic’s network now included enduring ties between epidemiology, global supply chains, and geopolitical influence, extending far beyond the initial health crisis.",
+      "relationship": "included enduring ties between",
+      "object": "epidemiology, global supply chains, and geopolitical influence",
+      "object_label": "Enduring connections formed during the pandemic involving epidemiology, global supply chains, and geopolitical influence"
+    }
+  ]
+}
